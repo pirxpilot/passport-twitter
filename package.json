@@ -1,5 +1,5 @@
 {
-  "name": "passport-twitter",
+  "name": "@pirxpilot/passport-twitter",
   "version": "1.0.4",
   "description": "Twitter authentication strategy for Passport.",
   "keywords": [
@@ -15,10 +15,7 @@
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jaredhanson/passport-twitter.git"
-  },
+  "repository": "pirxpilot/passport-twitter",
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-twitter/issues"
   },

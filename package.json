@@ -1,6 +1,6 @@
 {
   "name": "@pirxpilot/passport-twitter",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "Twitter authentication strategy for Passport.",
   "keywords": [
     "passport",
